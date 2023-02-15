@@ -1,0 +1,4 @@
+name: MapTesting
+version: '${project.version}'
+main: de.theredend2000.maptesting.Main
+api-version: 1.19
